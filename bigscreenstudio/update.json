@@ -1,10 +1,10 @@
 {
 	"bse": {
-		"version": "2.5.7",
+		"version": "1.5.3",
 		"installer": "BigScreenEditor-win32-x64.exe"
 	},
 	"bsm": {
-		"version": "2.5.1",
+		"version": "1.5.3",
 		"installer": "BigScreenManager-win32-x64.exe"
 	}
 }
